@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<price_list xsi:noNamespaceSchemaLocation="file:///D:/Мои%20документы/работа%20доп/0_Питер/Курсы/XML/уроки/Итоговое%20задание/schema_price.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <information date_send="2009-06-21" firma="ООО ТК" fio_isp="Иванов Т.П."/>
+ <tovars>
+  <category id="Фотоаппараты">
+   <tovar  naim="Фотоаппарат Canon" kol_vo="10" price="10.20" description="Описание фотоаппарата"/>
+   <tovar  naim="Фотокамера Nikon" kol_vo="2" price="12.20"/>
+  </category>
+   <category id="Фотоаппараты">
+   <tovar  naim="Видеокамера Fuji" kol_vo="10" price="10.20" description="Описание видеокамеры"/>
+   <tovar  naim="Видеокамера Sony" kol_vo="2" price="12.20"/>
+  </category>
+ </tovars>
+</price_list>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

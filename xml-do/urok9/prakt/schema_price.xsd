@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+ <xs:element name="price_last">
+  <xs:complexType>
+   <xs:sequence>
+   <xs:element name="information">
+    <xs:complexType>
+     <xs:attribute name="date_send" type="xs:date" use="required"/>
+     <xs:attribute name="firma" type="xs:string" use="required"/>
+     <xs:attribute name="fio_isp" type="xs:integer" use="optional"/>
+    </xs:complexType>
+   </xs:element>
+   <xs:element name="category">
+    <xs:complexType>
+     <xs:sequence>
+      <xs:element name="tovar"  minOccurs="1" maxOccurs="unbounded">
+       <xs:complexType>
+        <xs:sequence>
+         <xs:element name="tovars" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+           <xs:attribute name="naim" type="xs:integer" use="required"/>
+           <xs:attribute name="kol_vo" type="xs:integer" use="required"/>
+           <xs:attribute name="price" type="xs:integer" use="required"/>
+           <xs:attribute name="description" type="xs:string" use="required"/>
+          </xs:complexType>
+         </xs:element>
+        </xs:sequence>
+        <xs:attribute name="naim" type="xs:string" use="required"/>
+       </xs:complexType>
+      </xs:element>
+     </xs:sequence>
+    </xs:complexType>
+   </xs:element>
+   </xs:sequence>
+  </xs:complexType>
+ </xs:element>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
