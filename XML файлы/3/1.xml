@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TOVARS SYSTEM "1.dtd">
+<TOVARS>
+<TOVAR NAIM="Керосин" PRICE="40" DESCRIPTION="Топливо" VALUTA="RUB"/>
+<TOVAR NAIM="Помада" PRICE="300" DESCRIPTION="Косметика" VALUTA="RUB"/>
+<TOVAR NAIM="Хлеб" PRICE="30" VALUTA="RUB"/>
+</TOVARS>
+

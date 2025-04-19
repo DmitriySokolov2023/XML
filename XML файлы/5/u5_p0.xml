@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<price xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="u5_p1.xsd">
+<tovars>
+<tovar name="Керосин" descrittion="Горючее" price="10-20"/>
+<tovar price="100.20"/>
+</tovars>
+<date_make>21.12.2009</date_make>
+</price>
+

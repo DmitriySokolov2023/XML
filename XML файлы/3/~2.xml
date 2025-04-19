@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TOVARS SYSTEM "2.dtd">
+<TOVARS>
+<TOVAR CUR="RUB" PRICE="20">
+<NAIM>Бензин</NAIM>
+</TOVAR>
+<TOVAR PRICE="20">
+<NAIM>Керосин</NAIM>
+<PRICE>40</PRICE>
+</TOVAR>
+</TOVARS>
+
+
