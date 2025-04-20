@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="price_pr1.xsl"?>
-
 <tovars>
 <opis>Товары фирмы</opis>
 <tovar>
@@ -16,7 +15,6 @@
 <price>11</price>
 </tovar>
 </tovars>
-
 
 
 
